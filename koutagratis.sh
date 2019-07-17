@@ -38,6 +38,6 @@ read -p"╰───────root@dyxa#ABCD=•>" memeq;
 sleep 1
 echo $red "Loading"
 sleep 2
-rm -rf storage/emulated/0/Dyxa#ABCD
+rm -rf storage/emulated/0/Dyxa
 echo  $blue "Tunggu Beberapa Menit , Nanti Kouta Akan Bertambah"
 fi
