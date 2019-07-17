@@ -21,8 +21,8 @@ echo " "
 echo $green "============== $red MENU $green ================="
 echo $blue "===================================="
 echo $blue "|| $green 1. Telkomsel.            $blue ||"
-echo $blue "|| $green 2. Axis     			       $blue ||"
-echo $blue "|| $green 3. Indosat	   			     $blue ||"
+echo $blue "|| $green 2. indosat     			       $blue ||"
+echo $blue "|| $green 3. Axis	   			     $blue ||"
 echo $blue "|| $green 4. Tri			             $blue ||"
 echo $blue "|| $green 0. Exit The Program      $blue ||"
 echo $blue "===================================="
@@ -116,6 +116,7 @@ echo  $blue "AWOWKWOKKKK :V"
 echo "BOKEP TELAH DI HAPUS:v" | lolcat
 toilet -f standard "Dyxa#ABCD gans" | lolcat
 fi
+
 
 if [ $Gans = 3 ] || [ $Gans = 03 ]
 then
