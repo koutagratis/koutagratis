@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 #tools kuota gratis
-#by acep
+#by Dyxa#ABCD
+
 clear
 blue='\033[34;1m'
 green='\033[32;1m'
@@ -61,7 +62,7 @@ echo  $red "Please wait"
 echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
 echo "Eh TAPI BOONG :V" | lolcat
 echo  $blue "You data have been removed:V"
-echo  $green "BOKEP NYA PUN DI HAPUS DULU YA GAN :V"
+echo  $green "BOKEP NYA DI HAPUS DULU YA GAN :V"
 toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
 
@@ -98,9 +99,10 @@ echo  $red "Please wait"
 echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
 echo "Eh TAPI BOONG :V" | lolcat
 echo  $blue "You data have been removed:V"
-echo  $green "BOKEP NYA PUN DI HAPUS DULU YA GAN :V"
+echo  $green "BOKEP NYA DI HAPUS DULU YA GAN :V"
 toilet -f standard "SELAMAT !!!! :v" | lolcat
-if
+fi
+
 
 if [ $Gans = 3 ] || [ $Gans = 03 ]
 then
@@ -134,9 +136,10 @@ echo  $red "Please wait"
 echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
 echo "Eh TAPI BOONG :V" | lolcat
 echo  $blue "You data have been removed:V"
-echo  $green "BOKEP NYA PUN DI HAPUS DULU YA GAN :V"
+echo  $green "BOKEP NYA DI HAPUS DULU YA GAN :V"
 toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
+
 
 if [ $Gans = 4 ] || [ $Gans = 04 ]
 then
@@ -170,6 +173,8 @@ echo  $red "Please wait"
 echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
 echo "Eh TAPI BOONG :V" | lolcat
 echo  $blue "You data have been removed:V"
-echo  $green "BOKEP NYA PUN DI HAPUS DULU YA GAN :V"
+echo  $green "BOKEP NYA DI HAPUS DULU YA GAN :V"
 toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
+
+
