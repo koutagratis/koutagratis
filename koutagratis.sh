@@ -14,7 +14,7 @@ echo  $red    "|                                   |"
 echo  $red    "| Author        : Dyxa#ABCD         |"
 echo  $red    "| Contact       : 089676666667      |"
 echo  $red    "| My Team       : Rabbit Cyber team |"
-echo  $red    "| Thanks To     : Al Member         |"
+echo  $red    "| Thanks To     : All Member         |"
 echo  $blue "<|======================================|>"
 sleep 1
 echo " "
