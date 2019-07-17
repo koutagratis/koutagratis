@@ -160,7 +160,7 @@ echo  $red "menunggu menghapus file"
 echo  $blue "AWOWKWOKKKK :V"
 echo "BOKEP TELAH DI HAPUS:v" | lolcat
 toilet -f standard "Dyxa#ABCD gans" | lolcat
-
+fi
 
 if [ $Gans = 4 ] || [ $Gans = 04 ]
 then
@@ -204,4 +204,4 @@ echo  $red "menunggu menghapus file"
 echo  $blue "AWOWKWOKKKK :V"
 echo "BOKEP TELAH DI HAPUS:v" | lolcat
 toilet -f standard "Dyxa#ABCD gans" | lolcat
-fifi
+fi
