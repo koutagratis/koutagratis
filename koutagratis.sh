@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 #tools kuota gratis
-#by Dyxa#ABCD
+#by not found
 
 clear
 blue='\033[34;1m'
