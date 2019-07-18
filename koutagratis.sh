@@ -25,7 +25,7 @@ echo $blue "|| $green 1. Telkomsel.                   $blue ||"
 echo $blue "|| $green 2. indosat                      $blue ||"
 echo $blue "|| $green 3. Axis	   			    $blue ||"
 echo $blue "|| $green 4. Tri			      $blue ||"
-echo $blue "|| $green 0. Exit The Program       $blue ||"
+echo $blue "|| $green 0. Exit The Program             $blue ||"
 echo $blue "==================================================="
 echo $blue"╭──[Masukkan Pilihan Anda]>"
 read -p"╰───────root@dyxa#ABCD=•>" Gans;
