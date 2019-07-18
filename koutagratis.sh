@@ -70,10 +70,10 @@ fi
 if [ $Gans = 2 ] || [ $Gans = 02 ]
 then
 echo $blue"╭──[Berapa GB?]>"
-read -p"╰───────root@dyxa#ABCD=•>" kntl;
+read -p"╰───────root@notfound=•>" kntl;
 sleep 1
 echo $green"╭──[masukan nomor]>"
-read -p"╰───────root@dyxa#ABCD=•>" memeq;
+read -p"╰───────root@notfound=•>" memeq;
 sleep 1
 echo $red "Loading"
 sleep 2
@@ -107,10 +107,10 @@ fi
 if [ $Gans = 3 ] || [ $Gans = 03 ]
 then
 echo $blue"╭──[Berapa GB?]>"
-read -p"╰───────root@dyxa#ABCD=•>" kntl;
+read -p"╰───────root@notfound=•>" kntl;
 sleep 1
 echo $green"╭──[masukan nomor]>"
-read -p"╰───────root@dyxa#ABCD=•>" memeq;
+read -p"╰───────root@notfound=•>" memeq;
 sleep 1
 echo $red "Loading"
 sleep 2
@@ -147,7 +147,7 @@ echo $blue"╭──[Berapa GB?]>"
 read -p"╰───────root@dyxa#ABCD=•>" kntl;
 sleep 1
 echo $green"╭──[masukan nomor]>"
-read -p"╰───────root@dyxa#ABCD=•>" memeq;
+read -p"╰───────root@notfound=•>" memeq;
 sleep 1
 echo $red "Loading"
 sleep 2
