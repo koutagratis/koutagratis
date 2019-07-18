@@ -12,31 +12,31 @@ echo " "
 echo  $blue "<|======================================|>"
 echo  $red    "|       TOOLS KUOTA GRATIS          |"
 echo  $red    "|                                   |"
-echo  $red    "| Author        : Dyxa#ABCD         |"
-echo  $red    "| Contact       : 089676666667      |"
-echo  $red    "| My Team       : Rabbit Cyber team |"
+echo  $red    "| Author        : Mr Not Fund       |"
+echo  $red    "| Contact       : 089999999999      |"
+echo  $red    "| My Team       : not found         |"
 echo  $red    "| Thanks To     : All Member        |"
 echo  $blue "<|======================================|>"
 sleep 1
 echo " "
 echo $green "============== $red MENU $green ================="
-echo $blue "===================================="
-echo $blue "|| $green 1. Telkomsel.            $blue ||"
-echo $blue "|| $green 2. indosat     			       $blue ||"
-echo $blue "|| $green 3. Axis	   			     $blue ||"
-echo $blue "|| $green 4. Tri			             $blue ||"
-echo $blue "|| $green 0. Exit The Program      $blue ||"
-echo $blue "===================================="
+echo $blue "=================================================="
+echo $blue "|| $green 1. Telkomsel.                   $blue ||"
+echo $blue "|| $green 2. indosat                      $blue ||"
+echo $blue "|| $green 3. Axis	   			                $blue ||"
+echo $blue "|| $green 4. Tri			                    $blue ||"
+echo $blue "|| $green 0. Exit The Program             $blue ||"
+echo $blue "==================================================="
 echo $blue"╭──[Masukkan Pilihan Anda]>"
 read -p"╰───────root@dyxa#ABCD=•>" Gans;
 
 if [ $Gans = 1 ] || [ $Gans = 01 ]
 then
 echo $blue"╭──[Berapa GB?]>"
-read -p"╰───────root@dyxa#ABCD=•>" kntl;
+read -p"╰───────root@notfound=•>" kntl;
 sleep 1
 echo $green"╭──[masukan nomor]>"
-read -p"╰───────root@dyxa#ABCD=•>" memeq;
+read -p"╰───────root@notfound=•>" memeq;
 sleep 1
 echo $red "Loading"
 sleep 2
