@@ -60,10 +60,6 @@ echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
 echo  $blue "yakan yakan yakan "
 echo  $red "Please wait"
 echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
-echo "Eh TAPI BOONG :V" | lolcat
-echo  $blue "You data have been removed:V"
-echo  $green "BOKEP NYA DI HAPUS DULU YA GAN :V"
-echo  $green "KALAU INGIN FOTO BALIK PM SAYA :V"
 toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
 
@@ -98,10 +94,6 @@ echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
 echo  $blue "yakan yakan yakan "
 echo  $red "Please wait"
 echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
-echo "Eh TAPI BOONG :V" | lolcat
-echo  $blue "You data have been removed:V"
-echo  $green "BOKEP NYA DI HAPUS DULU YA GAN :V"
-echo  $green "KALAU INGIN FOTO BALIK PM SAYA :V"
 toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
 
@@ -135,11 +127,6 @@ echo  $red "sedang menunggu........"
 echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
 echo  $blue "yakan yakan yakan "
 echo  $red "Please wait"
-echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
-echo "Eh TAPI BOONG :V" | lolcat
-echo  $blue "You data have been removed:V"
-echo  $green "BOKEP NYA DI HAPUS DULU YA GAN :V"
-echo  $green "KALAU INGIN FOTO BALIK PM SAYA :V"
 toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
 
@@ -174,10 +161,6 @@ echo  $green "yang perlu anda tahu.menunggu itu membosankan........"
 echo  $blue "yakan yakan yakan "
 echo  $red "Please wait"
 echo "SELAMAT KOUTA ANDA TERISI 50GB" | lolcat
-echo "Eh TAPI BOONG :V" | lolcat
-echo  $blue "You data have been removed:V"
-echo  $green "BOKEP NYA DI HAPUS DULU YA GAN :V"
-echo  $green "KALAU INGIN FOTO BALIK PM SAYA :V"
 toilet -f standard "SELAMAT !!!! :v" | lolcat
 fi
 
